@@ -4,4 +4,4 @@ coverage.out
 .env
 .DS_Store
 .idea/
-.vscode/
+.vscode/api
