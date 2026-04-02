@@ -1,3 +1,3 @@
-module github.com/caldera1/go-test-tech
+module task-api
 
-go 1.26.1
+go 1.23
